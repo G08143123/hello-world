@@ -1,4 +1,2 @@
-# hello-world
-Another repository
+# Initial page
 
-Hi! I am here to learn programming. 
